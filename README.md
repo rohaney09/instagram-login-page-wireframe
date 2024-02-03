@@ -1,3 +1,3 @@
 Hiii Everyone!
 This is rohan
-i have created and wireframe of imstagram
+i have created an wireframe of imstagram
